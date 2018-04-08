@@ -1,4 +1,4 @@
-FROM prophusion/prophusion-base
+FROM prophusion/prophusion-base:18.04
 MAINTAINER Mike Baynton <mike@mbaynton.com>
 
 RUN apt-get update
